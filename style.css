@@ -125,4 +125,7 @@ p {
   .app-img {
     display: block;
   }
+  .primary-link {
+    text-align: center;
+  }
 }
