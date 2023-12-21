@@ -128,5 +128,7 @@ p {
   }
   .primary-link {
     text-align: center;
+    display: center;
+    margin-bottom: 10px;
   }
 }
