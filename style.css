@@ -109,4 +109,7 @@ p {
     font-size: 9px;
     text-align: center;
   }
+  .weather-app {
+    font-size: 24px;
+  }
 }
