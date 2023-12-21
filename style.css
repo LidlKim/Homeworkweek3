@@ -100,3 +100,12 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 700px) {
+  .row mt-5 {
+    text-align: center;
+  }
+  .col-6 {
+    font-size: 14px;
+  }
+}
