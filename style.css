@@ -111,11 +111,14 @@ p {
   }
   .weather-app {
     font-size: 24px;
+    text-align: center;
   }
   .yoga-app {
     font-size: 24px;
+    text-align: center;
   }
   .yogurt-app {
     font-size: 24px;
+    text-align: center;
   }
 }
