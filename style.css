@@ -128,7 +128,7 @@ p {
   }
   .primary-link {
     text-align: center;
-    justify-content: center;
+    justify-content: sm-center;
     margin-bottom: 10px;
   }
 }
