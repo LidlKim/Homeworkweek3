@@ -125,6 +125,7 @@ p {
   }
   .app-img {
     display: block;
+    margin-top: 10px;
   }
   .pp {
     text-align: center;
