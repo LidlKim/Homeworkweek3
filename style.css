@@ -133,4 +133,7 @@ p {
     margin-bottom: 10px;
     flex: 1;
   }
+  .col-sm-6 {
+    padding: 20px;
+  }
 }
